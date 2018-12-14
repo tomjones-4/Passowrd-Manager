@@ -8,4 +8,6 @@ To clear data and start fresh, simply open infofile.txt and delete the saved enc
 
 There is also a fully functional tktinker GUI version that can be run with python GUI.py. The GUI launches asynchronous subprocess threads that run master_password.py, and pipes back and forth the necessary data using stdin and stdout listeners.
 
-Enjoy hacking the mainframe!
+The GUI might not work as expected.
+
+In any case, the command line program works as desired.
