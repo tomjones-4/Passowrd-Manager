@@ -1,4 +1,3 @@
-#CryptoLock3000
 Cryptographic Password Manager Tom Jones, David Lee, Henry Hilton
 
 Implementation of basic command line version complete, along with stretch goal GUI.
